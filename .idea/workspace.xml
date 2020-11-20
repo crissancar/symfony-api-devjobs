@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc5f4686-0ac2-4222-9042-34d2ccb963c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9005" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="fe6a5cf2-5d93-4029-ac92-29eb3909366c" name="Docker" port="250" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/appdata/www" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="symfony-api-devjobs_symfony-api-devjobs-be:latest" />
+  <component name="ProjectId" id="1kYm2XotYD9DBn9UzSHBqigdAAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\cristian\www\symfony-api-devjobs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\cristian\www\symfony-api-devJobs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5f4686-0ac2-4222-9042-34d2ccb963c7" name="Default Changelist" comment="" />
+      <created>1605885693163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605885693163</updated>
+      <workItem from="1605885694237" duration="6557000" />
+      <workItem from="1605897793928" duration="4615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2460" y="175" key="#CLI_Interpreters" timestamp="1605900904750">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2460" y="175" key="#CLI_Interpreters/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605900904750" />
+    <state x="2649" y="234" key="#Docker3" timestamp="1605900426960">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2649" y="234" key="#Docker3/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605900426960" />
+    <state x="2649" y="234" key="#Docker4" timestamp="1605900852322">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2649" y="234" key="#Docker4/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605900852322" />
+    <state x="2636" y="340" key="#Notifications" timestamp="1605897840759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2636" y="340" key="#Notifications/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605897840759" />
+    <state x="2256" y="356" key="#SQL_Dialects" timestamp="1605895096515">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2256" y="356" key="#SQL_Dialects/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605895096515" />
+    <state x="2735" y="421" key="#Volume_binding" timestamp="1605899408017">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2735" y="421" key="#Volume_binding/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605899408017" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605899705396">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605899705396" />
+    <state x="2659" y="275" key="FileChooserDialogImpl" timestamp="1605895092265">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2659" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605895092265" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1605900931723">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605900931723" />
+    <state x="2691" y="389" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1605900913844">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2691" y="389" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605900913844" />
+  </component>
+</project>
