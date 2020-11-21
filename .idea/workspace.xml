@@ -27,15 +27,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\cristian\www\symfony-api-devjobs\" />
+      <recent name="\\wsl$\Ubuntu-20.04\home\cristian\www\symfony-api-devjobs\src" />
       <recent name="\\wsl$\Ubuntu-20.04\home\cristian\www\symfony-api-devjobs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -51,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605885693163</updated>
       <workItem from="1605885694237" duration="6557000" />
-      <workItem from="1605897793928" duration="4615000" />
+      <workItem from="1605897793928" duration="14950000" />
     </task>
     <servers />
   </component>
@@ -75,26 +79,42 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2636" y="340" key="#Notifications/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605897840759" />
-    <state x="2256" y="356" key="#SQL_Dialects" timestamp="1605895096515">
+    <state x="2256" y="356" key="#SQL_Dialects" timestamp="1605917100938">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2256" y="356" key="#SQL_Dialects/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605895096515" />
+    <state x="2256" y="356" key="#SQL_Dialects/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605917100938" />
     <state x="2735" y="421" key="#Volume_binding" timestamp="1605899408017">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2735" y="421" key="#Volume_binding/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605899408017" />
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605899705396">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605916533805">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605899705396" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605916533805" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605913646509">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605913646509" />
+    <state x="2660" y="448" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1605913008736">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="448" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605913008736" />
     <state x="2659" y="275" key="FileChooserDialogImpl" timestamp="1605895092265">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2659" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605895092265" />
-    <state x="2381" y="165" key="SettingsEditor" timestamp="1605900931723">
+    <state width="273" height="539" key="HiddenNamespacesPopup" timestamp="1605916607409">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="165" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605900931723" />
+    <state width="273" height="539" key="HiddenNamespacesPopup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605916607409" />
+    <state x="2588" y="227" key="NewPhpClassDialog" timestamp="1605915357476">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2588" y="227" key="NewPhpClassDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605915357476" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1605910100699">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605910100699" />
     <state x="2691" y="389" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1605900913844">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
